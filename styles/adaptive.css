@@ -29,7 +29,7 @@
 	color: #fff;
 	position: absolute;
 	padding-left: 100px;
-	padding-top: 30px;
+	padding-top: 20px;
 	text-align: center;
 	vertical-align: middle;
 	width: 100px;
@@ -111,7 +111,7 @@
 	.container_logo{
 	padding-left: 100px;
 	}
-	
+
 	.header_logo {
 	margin-top: 75px;
 	}
@@ -134,7 +134,7 @@
 	color: #fff;
 	position: absolute;
 	padding-left: 100px;
-	padding-top: 30px;
+	padding-top: 20px;
 	text-align: center;
 	vertical-align: middle;
 }
