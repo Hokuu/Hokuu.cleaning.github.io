@@ -332,6 +332,7 @@ header span {
 	display: flex;
 	float: left;
 	position: relative;
+	z-index: 0;
 	
 }
 
@@ -342,7 +343,15 @@ header span {
 	padding-top: 300px;
 }
 
-.iphone_img span {
+.iphone_text_logo {
+	z-index: 2;
+	display: block;
+	position: absolute;
+
+}
+
+.iphone_text_logo span {
+	z-index: 3;
 	font-family: 'Comfortaa', cursive;
 	font-size: 48px;
 	font-weight: 700;
@@ -353,7 +362,7 @@ header span {
 	width: 400px;
 	padding-top: 400px;
 	padding-left: 130px;
-	z-index: 1;
+	
 }
 
 .iphone_text {
