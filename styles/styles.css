@@ -337,6 +337,7 @@ header span {
 }
 
 .iphone_icon_logo {
+	z-index: 3;
 	display: flex;
 	position: absolute;
 	padding-left: 290px;
