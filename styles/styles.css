@@ -56,7 +56,7 @@ h3 {
 	}
 
 .navbar_text {
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Caveat', cursive;
 	font-size: 48px;
 	font-weight: 700;
 	color: #fff;
@@ -353,7 +353,7 @@ header span {
 
 .iphone_text_logo span {
 	z-index: 3;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Caveat', cursive;
 	font-size: 48px;
 	font-weight: 700;
 	color: #fff;
@@ -507,13 +507,13 @@ header span {
 }
 
 .footer_text_logo {
-	font-family: 'Comfortaa', cursive;
-	font-size: 24px;
+	font-family: 'Caveat', cursive;
+	font-size: 48px;
 	font-weight: 700;
 	color: #fff;
 	position: absolute;
 	padding-left: 100px;
-	padding-top: 30px;
+	padding-top: 20px;
 	text-align: center;
 	vertical-align: middle;
 }

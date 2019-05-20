@@ -1,3 +1,8 @@
+@media only screen and (min-width: 1920px) {
+	.navbar_text {
+		padding-top: 20px;
+	}
+}
 @media only screen and (max-width: 1200px) {
 	
 	h1{
@@ -23,16 +28,16 @@
 	}
 
 	.navbar_text {
-	font-family: 'Comfortaa', cursive;
-	font-size: 24px;
+	font-family: 'Caveat', cursive;
+	font-size: 30px;
 	font-weight: 700;
 	color: #fff;
 	position: absolute;
 	padding-left: 100px;
-	padding-top: 20px;
+	padding-top: 30px;
 	text-align: center;
 	vertical-align: middle;
-	width: 100px;
+	width: 200px;
 }
 
 	header {
@@ -86,6 +91,8 @@
 
 	.footer_text_logo {
 		padding-left: 200px;
+		font-size: 34px;
+		padding-top: 30px;
 	}
 
 }
@@ -128,13 +135,13 @@
 	}
 
 	.navbar_text {
-	font-family: 'Comfortaa', cursive;
-	font-size: 34px;
+	font-family: 'Caveat', cursive;
+	font-size: 48px;
 	font-weight: 700;
 	color: #fff;
 	position: absolute;
 	padding-left: 100px;
-	padding-top: 30px;
+	padding-top: 20px;
 	text-align: center;
 	vertical-align: middle;
 }
@@ -197,6 +204,10 @@
 
 	.footer_text_logo {
 		padding-left: 200px;
+		font-size: 34px;
+		padding-top: 30px;
 	}
+
+
 
 }
