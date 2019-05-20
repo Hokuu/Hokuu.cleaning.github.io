@@ -32,6 +32,7 @@ h3 {
 	width: 100%;
 	max-width: 1920px;
 	height: 1050px;
+	margin: 0 auto;
 }
 
 .container {
@@ -162,7 +163,7 @@ header span {
 .price_list {
 	width: 100%;
 	max-width: 1920px;
-	
+	margin: 0 auto;
 }
 
 .price_header {
@@ -197,7 +198,7 @@ header span {
 }
 
 .icon {
-	
+	margin: 0 auto;
 	width: 100%;
 	max-width: 1920px;
 }
@@ -238,6 +239,7 @@ header span {
 .reviews {
 	width: 100%;
 	max-width: 1920px;
+	margin: 0 auto;
 }
 
 .reviews_clients {
@@ -318,6 +320,7 @@ header span {
 	width: 100%;
 	max-width: 1920px;
 	height: 1300px;
+	margin: 0 auto;
 	
 	
 }
