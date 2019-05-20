@@ -42,7 +42,7 @@ h3 {
 
 .container_logo{
 	position: absolute;
-	
+	z-index: 1;
 	padding-top: 33px;
 }
 
@@ -500,7 +500,7 @@ header span {
 }
 
 .footer_logo {
-	
+	z-index: 1;
 	position: absolute;
 	float: left;
 
