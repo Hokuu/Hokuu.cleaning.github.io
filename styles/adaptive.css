@@ -15,7 +15,7 @@
 		font-size: 36px;
 		font-weight: 300;
 		color: #000;
-		margin-left: 80px;
+		
 	}
 	
 	.container_logo{
@@ -111,7 +111,7 @@
 		font-size: 24px;
 		font-weight: 300;
 		color: #000;
-		margin-left: 50px;
+		
 		
 	}
 
@@ -120,7 +120,7 @@
 	}
 
 	.header_logo {
-	margin-top: 75px;
+	margin-top: 45px;
 	}
 
 	.header_logo img {
